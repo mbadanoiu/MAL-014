@@ -22,4 +22,4 @@ More details and the exploitation process can be found in this [PDF](https://git
 
 - Vulnerability was reported to security@vmware.com (now vmware.psirt@broadcom.com) on 12-Apr-2023
 - It was determined that the vulnerability could not be replicated in latest vCenter version at the time (8.0 U1)
-- Publicly disclosed the vulnerability on XX-MMM-2025
+- Publicly disclosed the vulnerability on 21-Apr-2025
